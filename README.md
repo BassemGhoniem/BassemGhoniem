@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Bassem's github stats](https://github-readme-stats.vercel.app/api?username=BassemGhoniem&count_private=true)](https://github.com/BassemGhoniem/github-readme-stats)
+[![Bassem's github stats](https://github-readme-stats.vercel.app/api?username=BassemGhoniem&count_private=true&theme=dark&show_icons=true)](https://github.com/BassemGhoniem/github-readme-stats)
 
 <!--
 **BassemGhoniem/BassemGhoniem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
