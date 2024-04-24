@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Bassem's github stats](https://github-readme-stats.vercel.app/api?username=BassemGhoniem&count_private=true&theme=dark&show_icons=true&hide=stars)](https://github.com/BassemGhoniem/github-readme-stats)
+[![Bassem's github stats](https://github-readme-stats-bg.vercel.app/api?username=BassemGhoniem&count_private=true&theme=dark&show_icons=true&hide=stars&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/BassemGhoniem/github-readme-stats)
 
 <!--
 **BassemGhoniem/BassemGhoniem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
